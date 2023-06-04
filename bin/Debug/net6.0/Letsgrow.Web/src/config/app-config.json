@@ -1,0 +1,7 @@
+{
+  "env": {
+    "name": "DEV"
+  },
+  "apiUrl": "http://localhost:5500/api/",
+  "webUrl": "http://localhost:4200/"
+}
